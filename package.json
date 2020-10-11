@@ -1,0 +1,11 @@
+{
+  "name": "users-app",
+  "version": "1.0.0",
+  "description": "A simple app to learn how graphql works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavan Kusunuri",
+  "license": "MIT"
+}
